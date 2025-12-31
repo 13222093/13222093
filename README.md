@@ -1,6 +1,7 @@
 ## Hi there 👋
 <!--Replace <username> with your own GitHub username.-->
-https://pixel-profile.vercel.app/api/github-stats?username=13222093
+<img width="1226" height="430" alt="image" src="https://github.com/user-attachments/assets/9467adf8-5c11-493b-8673-644a609f2e53" />
+
 <!--
 **13222093/13222093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
