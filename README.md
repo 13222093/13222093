@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Ari Aziz GitHub stats](https://github-readme-stats.vercel.app/api?username=13222093)](https://github.com/13222093/github-readme-stats)
+<!--Replace <username> with your own GitHub username.-->
+https://pixel-profile.vercel.app/api/github-stats?username=13222093
 <!--
 **13222093/13222093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
