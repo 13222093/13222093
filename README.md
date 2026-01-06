@@ -2,6 +2,11 @@
 <!--Replace <username> with your own GitHub username.-->
 <img width="1226" height="430" alt="image" src="https://github.com/user-attachments/assets/9467adf8-5c11-493b-8673-644a609f2e53" />
 
+<!-- Statistics: Commit series -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/13222093/readme/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/13222093/readme/main/output/stats_commits.svg">
+</picture>
 <!--
 **13222093/13222093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
