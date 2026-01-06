@@ -1,4 +1,6 @@
-## Hi there 👋 Im Ari Aziz, Electrical Engineering Student at ITB
+## Hi there 👋 I'm Ari Aziz, Electrical Engineering Student at ITB
+
+I am currently in my final year and specializing in Computer Engineering. I have various experiences in Machine Learning projects, won multiple AI-themed Hackathons (both International and National), and am eager to learn and try something new. 
 
 <!-- Statistics: Commit series -->
 <picture>
