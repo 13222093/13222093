@@ -2,6 +2,9 @@
 
 I am currently in my final year and specializing in Computer Engineering. I have various experiences in Machine Learning projects, won multiple AI-themed Hackathons (both International and National), and am eager to learn and try something new. 
 
+## Tech Stack
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white 
+
 <!-- Statistics: Commit series -->
 <picture>
   <source srcset="https://raw.githubusercontent.com/13222093/readme/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
