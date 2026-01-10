@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ari Aziz, an Electrical Engineering Student at ITB
 
-I am currently in my final year and specializing in Computer Engineering. I have a passion for building intelligent systems, won multiple AI-themed Hackathons (both International and National), and am eager to learn and try something new. 
+I am currently in my final year and specializing in Computer Engineering. I have a passion for building intelligent systems, won 2 AI-themed Hackathons, and am eager to learn and try something new. 
 
 ---
 
